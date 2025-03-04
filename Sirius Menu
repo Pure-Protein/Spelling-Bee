@@ -3654,9 +3654,8 @@ if useStudio then
 		}
 	})
 
-	local Tab = Window:CreateTab("Tab Example", 'key-round') -- Title, Image
-	local Tab2 = Window:CreateTab("Tab Example 2", 4483362458) -- Title, Image
-
+	local Tab = Window:CreateTab("Tab", 'key-round') -- Title, Image
+	
 	local Section = Tab2:CreateSection("Section")
 
 
