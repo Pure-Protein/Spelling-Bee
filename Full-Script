@@ -1,5 +1,5 @@
 -- Sigma script btw
-local a=loadstring(game:HttpGet"https://sirius.menu/rayfield")()
+local a=loadstring(game:HttpGet"https://raw.githubusercontent.com/Pure-Protein/Spelling-Bee/refs/heads/main/Sirius%20Menu")()
 local b={
 ["rbxassetid://119699946181489"]="dolphin",
 ["rbxassetid://17620333788"]="thesis",
