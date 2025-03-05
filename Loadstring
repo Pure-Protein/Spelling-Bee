@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://github.com/Pure-Protein/Spelling-Bee/blob/main/.gitignore"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Pure-Protein/Spelling-Bee/refs/heads/main/Full-Script"))()
